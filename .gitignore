@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Ignore temp emacs files
+*~
+
+# Ignore virtualenv
+*_env
+*/*_env
